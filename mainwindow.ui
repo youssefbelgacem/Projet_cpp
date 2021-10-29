@@ -5191,11 +5191,6 @@
           </item>
           <item>
            <property name="text">
-            <string>Nouvel élément</string>
-           </property>
-          </item>
-          <item>
-           <property name="text">
             <string>remise en état des circuits électriques</string>
            </property>
           </item>
